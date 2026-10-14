@@ -1,0 +1,5 @@
+{
+  "name": "token-bar",
+  "version": "0.1.0",
+  "description": "Shows a persistent token-usage bar (% of context window used) in the status line."
+}
