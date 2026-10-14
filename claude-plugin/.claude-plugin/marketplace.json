@@ -1,0 +1,5 @@
+{
+  "name": "token-bar",
+  "owner": { "name": "Duong" },
+  "plugins": [{ "name": "token-bar", "source": "./" }]
+}
